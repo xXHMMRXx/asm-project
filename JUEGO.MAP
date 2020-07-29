@@ -1,0 +1,9 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 0207BH 0207CH JUEGO_TEXT         CODE
+ 0207CH 02727H 006ACH _DATA              DATA
+ 02730H 02B2FH 00400H STACK              STACK
+
+Program entry point at 0000:0000
+
